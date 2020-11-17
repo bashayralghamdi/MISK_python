@@ -1,9 +1,9 @@
-# python
+# MISK_python
 this repository contain both of stage 1 and 2 by python language
 
 ## stage 1
-this stage for all exercaise on the book:
--chick weight for chicken weight  
+this stage for all exercaise on the book:  
+- chick weight for chicken weight  
 - Epression  
 - dimond  
 - mtcars  
